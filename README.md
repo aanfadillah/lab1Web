@@ -93,7 +93,8 @@ atur atribut paragraf
 ### Menyisipkan Gambar
 ```
 <h3>Menyisipkan gambar</h3>
-<img src="Clarkson.jpg" width="480" />
+<img src="https://ecampus.pelitabangsa.ac.id/pb/img/logo_perguruanTinggi_1.png" width="300" />
+
 ```
 ![5](https://github.com/aanfadillah/lab1Web/assets/115763475/5ee8f07f-6df9-40aa-a46c-d0c39fe99ac1)
 
