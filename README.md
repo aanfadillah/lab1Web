@@ -38,7 +38,6 @@
 ![1](https://github.com/aanfadillah/lab1Web/assets/115763475/9c4c34e0-d5a3-4646-90fa-b7ea4a045679)
 
 
-
 atur atribut paragraf
 ```
 <p align="center">
@@ -50,18 +49,27 @@ atur atribut paragraf
 
 ![2](https://github.com/aanfadillah/lab1Web/assets/115763475/6f189535-93ff-4dd7-87b6-5ce5099ab2e7)
 
-
 ### Menambahkan Judul 
 ```
-<!-- paragraf pertama -->
+    <!-- paragraf pertama -->
 <h1>Belajar Dasar HTML</h1>
+<p>
+  Kami sedang belajar HTML dasar, pada matakuliah Pemograman Web di
+  prodi Teknik Informatika Universitas Pelita Bangsa.
+  Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana
+  dalam mengenal tag-tag dasar HTML.
+</p>
 
- <!-- paragraf kedua -->
+<!-- paragraf kedua -->
 <h2>Paragraf pada HTML</h2>
+<p align="center">
+  Ini adalah paragraf yang terdiri dari beberapa kalimat yang saling
+  mendukung sehingga terbentuk menjadi kesatuan. Paragraf dengan menggunakan
+  tag dasar HTML.
+</p>
 ```
 
 ![3](https://github.com/aanfadillah/lab1Web/assets/115763475/c80a2f9d-7cd8-4878-9ede-ec0c341ab234)
-
 
 ### Memformat Teks
 ```
@@ -82,16 +90,12 @@ atur atribut paragraf
   tag dasar HTML.
 </p>
 ```
-
-
 ### Menyisipkan Gambar
 ```
 <h3>Menyisipkan gambar</h3>
 <img src="Clarkson.jpg" width="480" />
 ```
-
 ![5](https://github.com/aanfadillah/lab1Web/assets/115763475/5ee8f07f-6df9-40aa-a46c-d0c39fe99ac1)
-
 
 ### Menambahkan Hyperlink
 ```
@@ -99,7 +103,6 @@ atur atribut paragraf
 <a href="lab1_tag_dasar.html"><b>DASAR HTML</b></a>
 </nav>
 ```
-
 ![6](https://github.com/aanfadillah/lab1Web/assets/115763475/5b9ffc4e-dfc6-45c9-99a6-f5aaa60a41d0)
 
 
