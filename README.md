@@ -5,11 +5,11 @@
   </tr>
   <tr>
     <td>Nama</td>
-    <td>Muhammad Reza Maulana</td>
+    <td>Aan Fadillah Putra</td>
   </tr>
   <tr>
     <td>NIM</td>
-    <td>312210303</td>
+    <td>312210327</td>
   </tr>
   <tr>
     <td>Kelas</td>
@@ -34,7 +34,9 @@
   tag dasar HTML.
 </p>
 ```
-![Screenshot 2023-09-26 154039](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/b893815f-ee0d-4193-8c33-80edecc18c14)
+
+![1](https://github.com/aanfadillah/lab1Web/assets/115763475/9c4c34e0-d5a3-4646-90fa-b7ea4a045679)
+
 
 
 atur atribut paragraf
@@ -46,7 +48,8 @@ atur atribut paragraf
 </p>
 ```
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/8851e999-3dfb-45cc-b61c-e54ebdc08935)
+![2](https://github.com/aanfadillah/lab1Web/assets/115763475/6f189535-93ff-4dd7-87b6-5ce5099ab2e7)
+
 
 ### Menambahkan Judul 
 ```
@@ -57,7 +60,8 @@ atur atribut paragraf
 <h2>Paragraf pada HTML</h2>
 ```
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/0bc537ee-2181-4c67-93c6-212e765669c0)
+![3](https://github.com/aanfadillah/lab1Web/assets/115763475/c80a2f9d-7cd8-4878-9ede-ec0c341ab234)
+
 
 ### Memformat Teks
 ```
@@ -79,7 +83,6 @@ atur atribut paragraf
 </p>
 ```
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/8efe9eec-9e87-4f69-9510-9db3a5f51f4d)
 
 ### Menyisipkan Gambar
 ```
@@ -87,7 +90,8 @@ atur atribut paragraf
 <img src="Clarkson.jpg" width="480" />
 ```
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/3098e175-e733-4439-a5e7-e5ed2d6763f9)
+![5](https://github.com/aanfadillah/lab1Web/assets/115763475/5ee8f07f-6df9-40aa-a46c-d0c39fe99ac1)
+
 
 ### Menambahkan Hyperlink
 ```
@@ -96,7 +100,8 @@ atur atribut paragraf
 </nav>
 ```
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/ea08b251-c07b-4246-8446-da4e043d9571)
+![6](https://github.com/aanfadillah/lab1Web/assets/115763475/5b9ffc4e-dfc6-45c9-99a6-f5aaa60a41d0)
+
 
 #### Menjawab Pertanyaan
 
